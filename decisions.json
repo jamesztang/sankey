@@ -13,7 +13,10 @@
             "name": "Trend Accept"
         },
         {
-            "name": "Trend Challenge"
+            "name": "Trend Challenge Accept"
+        },
+        {
+            "name": "Trend Challenge Deny"
         },
         {
             "name": "Trend Deny"
@@ -22,16 +25,16 @@
             "name": "CSR Accept"
         },
         {
-            "name": "CSR Challenge"
+            "name": "CSR Challenge Accept"
         },
         {
-            "name": "CSR Deny"
+            "name": "CSR Challenge Deny"
         },
         {
-            "name": "Riskified Accept"
+            "name": "CSR Deny Riskified Accept"
         },
         {
-            "name": "Riskified Deny"
+            "name": "CSR Deny Riskified Deny"
         },
         {
             "name": "ALL ACCEPT"
@@ -50,24 +53,24 @@
         {
             "source": 0,
             "target": 3,
-            "value": 100
+            "value": 1260599590   
         },
         {
             "source": 0,
             "target": 4,
-            "value": 50
+            "value": 6839301  
         },
         {
             "source": 0,
             "target": 5,
-            "value": 25
+            "value": 1862072  
+        },
+        {
+            "source": 0,
+            "target": 6,
+            "value": 32189269  
         },
 
-        {
-            "source": 1,
-            "target": 6,
-            "value": 30
-        },
         {
             "source": 1,
             "target": 7,
@@ -80,131 +83,144 @@
         },
 
         {
-            "source": 2,
-            "target": 6,
+            "source": 1,
+            "target": 9,
             "value": 15
         },
         {
+            "source": 1,
+            "target": 10,
+            "value": 10
+        },
+        {
+            "source": 1,
+            "target": 11,
+            "value": 5
+        },
+
+        {
             "source": 2,
             "target": 7,
-            "value": 10
+            "value": 20
         },
         {
             "source": 2,
             "target": 8,
-            "value": 5
+            "value": 10
         },
 
         {
-            "source": 3,
-            "target": 11,
-            "value": 10
-        },
-        {
-            "source": 3,
-            "target": 12,
-            "value": 5
-        },
-
-        {
-            "source": 4,
-            "target": 11,
-            "value": 10
-        },
-        {
-            "source": 4,
-            "target": 12,
-            "value": 5
-        },
-        {
-            "source": 4,
-            "target": 13,
-            "value": 10
-        },
-        {
-            "source": 4,
-            "target": 14,
-            "value": 5
-        },
-
-        {
-            "source": 5,
-            "target": 13,
-            "value": 10
-        },
-        {
-            "source": 5,
-            "target": 14,
-            "value": 5
-        },
-
-        {
-            "source": 6,
-            "target": 11,
-            "value": 10
-        },
-        {
-            "source": 6,
-            "target": 12,
-            "value": 5
-        },
-
-        {
-            "source": 7,
-            "target": 11,
-            "value": 10
-        },
-        {
-            "source": 7,
-            "target": 12,
-            "value": 5
-        },
-        {
-            "source": 7,
-            "target": 13,
-            "value": 10
-        },
-        {
-            "source": 7,
-            "target": 14,
-            "value": 5
-        },
-
-        {
-            "source": 8,
+            "source": 2,
             "target": 9,
-            "value": 10
+            "value": 15
         },
         {
-            "source": 8,
+            "source": 2,
             "target": 10,
+            "value": 10
+        },
+        {
+            "source": 2,
+            "target": 11,
             "value": 5
+        },
+
+        {
+            "source": 3,
+            "target": 12,
+            "value": 10
+        },
+        {
+            "source": 3,
+            "target": 13,
+            "value": 0 
+        },
+
+        {
+            "source": 4,
+            "target": 12,
+            "value": 0 
+        },
+        {
+            "source": 4,
+            "target": 13,
+            "value": 0 
+        },
+
+        {
+            "source": 5,
+            "target": 14,
+            "value": 0 
+        },
+        {
+            "source": 5,
+            "target": 15,
+            "value": 5
+        },
+
+        {
+            "source": 6,
+            "target": 14,
+            "value": 0 
+        },
+        {
+            "source": 6,
+            "target": 15,
+            "value": 5
+        },
+
+        {
+            "source": 7,
+            "target": 12,
+            "value": 10
+        },
+        {
+            "source": 7,
+            "target": 13,
+            "value": 0 
+        },
+
+        {
+            "source": 8,
+            "target": 12,
+            "value": 0 
         },
         {
             "source": 8,
             "target": 13,
-            "value": 10
+            "value": 0 
         },
 
         {
             "source": 9,
-            "target": 11,
-            "value": 10
+            "target": 14,
+            "value": 0 
         },
         {
             "source": 9,
-            "target": 12,
+            "target": 15,
             "value": 5
         },
 
         {
             "source": 10,
-            "target": 13,
-            "value": 10
+            "target": 12,
+            "value": 0 
         },
         {
             "source": 10,
+            "target": 13,
+            "value": 0 
+        },
+
+        {
+            "source": 11,
             "target": 14,
+            "value": 0 
+        },
+        {
+            "source": 11,
+            "target": 15,
             "value": 5
         }
     ]
