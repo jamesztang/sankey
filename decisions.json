@@ -81,7 +81,7 @@
                 { "source": 20,  "target": 22,  "value": 50    },
                 { "source": 20,  "target": 23,  "value": 40    },
             { "source": 19,  "target": 21,  "value": 30    },
-                { "source": 14,  "target": 24,  "value": 20    },
-                { "source": 14,  "target": 25,  "value": 10    }
+                { "source": 21,  "target": 24,  "value": 20    },
+                { "source": 21,  "target": 25,  "value": 10    }
     ]
 }
