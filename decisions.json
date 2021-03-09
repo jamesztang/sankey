@@ -1,0 +1,48 @@
+{
+    "nodes": [
+        {
+            "name": "Ink Accept"
+        },
+        {
+            "name": "Ink Challenge"
+        },
+        {
+            "name": "Ink Deny"
+        },
+        {
+            "name": "Trend Accept"
+        },
+        {
+            "name": "Trend Challenge"
+        },
+        {
+            "name": "Trend Deny"
+        },
+        {
+            "name": "CSR Accept"
+        },
+        {
+            "name": "CSR Challenge"
+        },
+        {
+            "name": "CSR Deny"
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 3,
+            "value": 100
+        },
+        {
+            "source": 0,
+            "target": 4,
+            "value": 50
+        },
+        {
+            "source": 0,
+            "target": 5,
+            "value": 25
+        }
+    ]
+}
